@@ -3,10 +3,10 @@
 
 ## Hi, developers!
 
-This repository contains some easy examples for using code in some different
-languages to consume the rest API via HTTP requests. We want you to understand
-easier the abstractions that we created in the platform, so you can develop
-your applications faster.
+This repository contains some easy examples of code in some different
+languages to consume the rest API via HTTP requests. We want to make it easier to
+understand the abstractions that we've created in the platform, so people can develop
+applications faster.
 
 We provide examples in:
 
@@ -14,9 +14,7 @@ We provide examples in:
 - [Python](python/README.md)
 - [Javascript](javascript/README.md)
 
-We also have a wiki page that has a better explanation about the response json
-and the kind of objects returned by the services. The more important servers and
-a quick resume about them are:
+The more important services and a quick resume about them are:
 
 - **DataCollector**: Keeps track of each measurement made by a resource (usually a sensor) in time.
 - **ResourceCatalog**: Persist information about of each resource in the city (sensors, buses, hospitals).

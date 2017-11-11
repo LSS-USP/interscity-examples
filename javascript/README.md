@@ -62,7 +62,7 @@ axios.get('http://143.107.45.126:30134/catalog/capabilities')
 ```javascript
 uuid = '2fb06b91-9e2a-4a65-9689-dee9c4f326db'
 
-axios.post('http://143.107.45.126:30134/collector/resources/' + uuid + '/data?limit=2
+axios.post('http://143.107.45.126:30134/collector/resources/' + uuid + '/data?limit=2'
      .then((response) => console.log(response.data))
      .catch((err) => console.log(error))
 
