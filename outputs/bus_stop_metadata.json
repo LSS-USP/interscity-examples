@@ -1,0 +1,14 @@
+{
+	"resources": [{
+		"uuid": "7ef186f6-197d-40ae-88d0-e6eb0b2ba4fd",
+		"capabilities": {
+			"bus_stop_metadata": [{
+				"name": "R. João Galli, 45",
+				"stop_id": 409054.0,
+				"stop_description": "",
+				"type": "bus_stop",
+				"date": "2017-11-09T20:54:46.000Z"
+			}]
+		}
+	}]
+}

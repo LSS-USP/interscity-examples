@@ -1,0 +1,43 @@
+{
+	"resources": [{
+		"uuid": "e2b74a8e-e0fd-424d-9fb6-14902b44ffff",
+		"capabilities": {
+			"air_quality": [{
+				"air_quality": "boa",
+				"polluting": "MP10",
+				"polluting_index": 26.0,
+				"date": "2017-11-10T20:40:25.000Z"
+			}, {
+				"air_quality": "boa",
+				"polluting": "MP10",
+				"polluting_index": 26.0,
+				"date": "2017-11-10T23:18:18.000Z"
+			}, {
+				"air_quality": "boa",
+				"polluting": "MP10",
+				"polluting_index": 26.0,
+				"date": "2017-11-10T23:20:51.000Z"
+			}, {
+				"air_quality": "boa",
+				"polluting": "MP10",
+				"polluting_index": 27.0,
+				"date": "2017-11-10T23:40:05.000Z"
+			}, {
+				"air_quality": "boa",
+				"polluting": "MP10",
+				"polluting_index": 27.0,
+				"date": "2017-11-11T00:00:14.000Z"
+			}, {
+				"air_quality": "boa",
+				"polluting": "MP10",
+				"polluting_index": 27.0,
+				"date": "2017-11-11T00:20:27.000Z"
+			}, {
+				"air_quality": "boa",
+				"polluting": "MP10",
+				"polluting_index": 27.0,
+				"date": "2017-11-11T00:40:23.000Z"
+			}]
+		}
+	}]
+}
