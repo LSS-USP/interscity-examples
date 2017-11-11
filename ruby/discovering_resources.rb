@@ -5,23 +5,23 @@ require 'json'
 platform_hostname = ENV['INTERSCITY_HOSTNAME'] || 'localhost:8000'
 
 def get(host, path, params=nil)
-    query = ''
-    if params
-		query = '?'
-        params.each do | key, value |
-            query += ( key.to_s + '=' + value.to_s )
-		end
-	end
+  query = ''
+  if params
+    query = '?'
+    params.each do | key, value |
+      query += ( key.to_s + '=' + value.to_s )
+    end
+  end
 
-    url = host + path + query
-	response = RestClient.get url
-    JSON.parse response.body
+  url = host + path + query
+  response = RestClient.get url
+  JSON.parse response.body
 end
 
 def post(host, path, params=[])
-	url = host + path
-	response = RestClient.post url, params.to_json	
-	JSON.parse response.body
+  url = host + path
+  response = RestClient.post url, params.to_json
+  JSON.parse response.body
 end
 
 #discoverer_path = '/discovery/resources'
