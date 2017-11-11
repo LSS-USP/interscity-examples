@@ -5,22 +5,20 @@
 Os seguintes recursos e capacidades estão disponíveis na plataforma:
 
 * Linha de ônibus
-  * [bus_line_monitoring]() - possui dados em tempo real da posição dos ônibus
+  * [bus_line_monitoring](bus_monitoring.json) - possui dados em tempo real da posição dos ônibus
   de uma linha
-  * [bus_line_metadata]() - possui dados estáticos das linhas do ônibus como a
+  * [bus_line_metadata](bus_line_metadata.json) - possui dados estáticos das linhas do ônibus como a
   rota e frequencias de horários
-* Paradas de ônibus
-  * [bus_stop_metadata]() - possui dados estáticos sobre as paradas de ônibus
-* Ônibus
+* Ônibus (Desligado)
   * [bus_monitoring]() - possui dados de cada ônibus em tempo real
 * Estação de BikeSharing
-  * [open]() - informa se uma estação está aberta ou fechada
-  * [slots_monitoring]() - informa a quantidade de bicicletas disponíveis e slots
+  * [open](bike.json) - informa se uma estação está aberta ou fechada
+  * [slots_monitoring](bike.json) - informa a quantidade de bicicletas disponíveis e slots
   disponíveis
 * Sensores de Qualidade do Ar
-  * [air_quality]() - informa dados sobre 
+  * [air_quality](air_quality.json)
 * Sensores do Clima
-  * [weather]() 
+  * [weather](weather.json) 
 
 
 # Requests

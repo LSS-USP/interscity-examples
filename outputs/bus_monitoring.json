@@ -1,0 +1,98 @@
+{
+	"resources": [{
+		"uuid": "4e1282b8-46b1-4b1f-9f73-176635c812a0",
+		"capabilities": {
+			"bus_line_monitoring": [{
+				"bus_line": "917H-10-1",
+				"direction": 1,
+				"number_of_buses": 9,
+				"headsign": "Term. Pirituba",
+				"bus_positions": [{
+						"location": {
+							"lon": "-46.701707375",
+							"lat": "-23.540777249999998"
+						},
+						"timestamp": "2017-11-11 14:21:25 UTC",
+						"accessible": "true",
+						"bus_id": "11977"
+					},
+					{
+						"location": {
+							"lat": "-23.495131999999998",
+							"lon": "-46.74707275"
+						},
+						"timestamp": "2017-11-11 14:22:21 UTC",
+						"bus_id": "11452",
+						"accessible": "true"
+					},
+					{
+						"timestamp": "2017-11-11 14:20:59 UTC",
+						"bus_id": "11469",
+						"accessible": "true",
+						"location": {
+							"lat": "-23.48608",
+							"lon": "-46.7258125"
+						}
+					},
+					{
+						"bus_id": "11899",
+						"accessible": "true",
+						"timestamp": "2017-11-11 14:22:34 UTC",
+						"location": {
+							"lat": "-23.486014",
+							"lon": "-46.7257505"
+						}
+					},
+					{
+						"location": {
+							"lon": "-46.662615125",
+							"lat": "-23.555973625"
+						},
+						"bus_id": "11454",
+						"accessible": "true",
+						"timestamp": "2017-11-11 14:21:52 UTC"
+					},
+					{
+						"bus_id": "11459",
+						"accessible": "true",
+						"timestamp": "2017-11-11 14:21:53 UTC",
+						"location": {
+							"lon": "-46.736953",
+							"lat": "-23.48693325"
+						}
+					},
+					{
+						"timestamp": "2017-11-11 14:22:22 UTC",
+						"bus_id": "11473",
+						"accessible": "true",
+						"location": {
+							"lon": "-46.74000325",
+							"lat": "-23.527873"
+						}
+					},
+					{
+						"bus_id": "11458",
+						"accessible": "true",
+						"timestamp": "2017-11-11 14:22:21 UTC",
+						"location": {
+							"lat": "-23.5892585",
+							"lon": "-46.63447600000001"
+						}
+					},
+					{
+						"accessible": "true",
+						"bus_id": "11855",
+						"timestamp": "2017-11-11 14:22:02 UTC",
+						"location": {
+							"lat": "-23.486221999999998",
+							"lon": "-46.725944999999996"
+						}
+					}
+				],
+				"type": "bus_line",
+				"date": "2017-11-11T14:22:00.000Z",
+				"sptrans_code": 456
+			}]
+		}
+	}]
+}

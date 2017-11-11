@@ -1,0 +1,23 @@
+{
+	"resources" : [
+		{
+			"uuid" : "42d87ddb-2dcf-4d05-936e-8573cfdce04a",
+			"capabilities" : {
+				"slots_monitoring" : [
+					{
+						"bike_slots" : 12,
+						"free_bikes" : 0,
+						"date" : "2017-11-11T16:11:07.000Z"
+					}
+				],
+				"open" : [
+					{
+						"status" : "false",
+						"date" : "2017-11-11T16:11:07.000Z"
+					}
+				]
+			}
+		}
+	]
+}
+
