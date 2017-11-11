@@ -1,3 +1,3 @@
 # PHP
 
-Choose another programming language =)
+**Please don't!** Choose a better programming language =)
